@@ -154,6 +154,10 @@ In the Import Design window click the save option to save the Default.globals fi
  
 • Select Floorplan → Specify Floorplan to modify/add concerned values to the above Factors. On adding/modifying the concerned values, the core area is also modified.
 
+
+<img width="1920" height="1080" alt="Screenshot (111)" src="https://github.com/user-attachments/assets/c8e1738d-1f01-4705-a41f-cbab69649ed8" />
+
+
 ### Fig.9 Specify Floorplan 
 
 • The Yellow patch on the Left Bottom are the group of “Unassigned pins” which are to be  placed along the IO Boundary along with the Standard Cells [Gates].
