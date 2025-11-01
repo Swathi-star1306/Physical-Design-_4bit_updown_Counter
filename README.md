@@ -69,29 +69,53 @@ Adding Liberty Files (slow.lib, fast.lib) under “Library Sets
 
 • add slow.lib with a label Slow or any identifier of your own.
 
+<img width="1920" height="1080" alt="Screenshot (93)" src="https://github.com/user-attachments/assets/dad59807-a7bc-468d-883a-32a370efb7b1" />
+
+
 ### Fig.1 Add slow Library set
 
 • add fast.lib with a label Fast or any identifier of your own.
+
+<img width="1920" height="1080" alt="Screenshot (94)" src="https://github.com/user-attachments/assets/3b1b5c51-c4cf-4e17-9154-0905857f0ff9" />
+
 
 ### Fig.2 Add fast Library set
 
 • Adding RC Corners can also be done in a similar process. The temperature value can be found under the corresponding liberty file. Also, cap table and RC Tech files can be added from Foundry where available.
 
+<img width="1920" height="1080" alt="Screenshot (95)" src="https://github.com/user-attachments/assets/44adf37d-e03d-423a-825a-9944672621e0" />
+
+
 ### Fig.3 Add RC corner
 
 • Delay Corners are formed by combining Library Sets with RC Corners.
+
+<img width="1920" height="1080" alt="Screenshot (96)" src="https://github.com/user-attachments/assets/ccf304c3-f29b-401e-aa2a-9d48ead03d16" />
+
+<img width="1920" height="1080" alt="Screenshot (97)" src="https://github.com/user-attachments/assets/de048ce4-e7a2-4264-9f2c-76ccf63faef1" />
+
 
 ### Fig.4 Add Delay corner Max_delay & Min_delay
 
 • Similarly, SDC can be read under the MMMC Object of “Constraints”.
 
+
+<img width="1920" height="1080" alt="Screenshot (100)" src="https://github.com/user-attachments/assets/62ae0530-4ba7-4c22-a931-ed7a9ee33c02" />
+
+
 ### Fig.5 SDC Constraint file
 
 • Analysis Views are formed from combinations of SDC and Delay Corner.
 
+<img width="1920" height="1080" alt="Screenshot (104)" src="https://github.com/user-attachments/assets/ea6bcc80-389e-4512-8274-325561db9a6c" />
+
+
 ### Fig.6 Add Analysis View Worstcase & Bestcase
 
 • Once “Best” and “Worst” Analysis views are created, assign them to Setup and Hold.
+
+<img width="1920" height="1080" alt="Screenshot (108)" src="https://github.com/user-attachments/assets/252201d2-dfec-4122-9bfe-a1712905f882" />
+
 
 ### Fig.7 Add Setup Analysis View & Hold Analysis View
 
@@ -106,6 +130,9 @@ Adding Liberty Files (slow.lib, fast.lib) under “Library Sets
 In the Import Design window click the save option to save the Default.globals file
 
 • A rectangular or square box appears in your GUI if and only if all the inputs are read properly.
+
+<img width="1920" height="1080" alt="Screenshot (112)" src="https://github.com/user-attachments/assets/d5e81188-6532-4e85-b73a-525dff7d5da1" />
+
 
 ### Fig.8 Core area
 
