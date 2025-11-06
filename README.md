@@ -220,6 +220,9 @@ The complete Power Planning process makes sure Every Standard Cell receives enou
 
 <img width="1920" height="1080" alt="Screenshot (143)" src="https://github.com/user-attachments/assets/ae359e97-3775-4c0e-8988-8b0d62e3036b" />
 
+<img width="1920" height="1080" alt="Screenshot (142)" src="https://github.com/user-attachments/assets/e345e19d-4e2c-4cfe-bf94-86df82eea4fc" />
+
+
 
 ### Fig.11 Placement of standard Cells 
 
