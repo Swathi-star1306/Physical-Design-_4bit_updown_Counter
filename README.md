@@ -202,6 +202,10 @@ Under Connect Global Net Connects, we create two pins, one for VDD and one for V
 
 • After the Special Route is complete, all the Standard Cell Rows turn to the Color coded for Metal 1 
 
+
+<img width="1920" height="1080" alt="Screenshot (139)" src="https://github.com/user-attachments/assets/456d8a6d-99ba-4231-8c41-fda9915ddf66" />
+
+
 ### Fig.10 Power plan 
 
 The complete Power Planning process makes sure Every Standard Cell receives enough power to operate smoothly.
@@ -213,6 +217,9 @@ The complete Power Planning process makes sure Every Standard Cell receives enou
 2. Select Place → Place Standard Cell → Run Full Placement → Mode → Enable ‘Place I/O Pins’ → OK → OK .
    
 • All the Standard Cells and Pins are placed as per the communication between them, i.e., Two communicating Cells are placed as close as possible so that shorter Net lengths can be used for connections as Shorter Net Lengths enable Better Timing Results.
+
+<img width="1920" height="1080" alt="Screenshot (143)" src="https://github.com/user-attachments/assets/ae359e97-3775-4c0e-8988-8b0d62e3036b" />
+
 
 ### Fig.11 Placement of standard Cells 
 
